@@ -48,4 +48,4 @@ The steps are shown in below Figure:
 ![image](https://user-images.githubusercontent.com/39075908/198519346-852a379e-8afc-49bd-9284-bec56c1cb23d.png)
 
 ## Data
-Use this dataset to train and evaluate the classifier: [https://www.kaggle.com/competitions/iiitd-abuse-detection-challenge/data.](https://www.kaggle.com/datasets/disisbig/hindi-movie-reviews-dataset)
+Use this dataset to train and evaluate the classifier: [Hindi Movie Reviews Dataset](https://www.kaggle.com/datasets/disisbig/hindi-movie-reviews-dataset)

@@ -34,4 +34,8 @@ This repository contains the instructions, guidelines, place holder for storing 
 * Mr. Sambit Sekhar (NLP - Recommendation Engine)
 * Mr. Abhijeet Parida (Computer Vision)
 * Dr. Ravi Shankar Prasad (Speech Processing)
+* Dr. Satya Ranjan Dash (NLP)
+* Mr. Pravat Jena (NLP, Data Science)
+* Mr. Arohi Kumar Barai (Microfabrication of Biomedical Microsystems and Implants)
+  
 

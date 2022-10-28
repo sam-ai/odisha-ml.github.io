@@ -1,7 +1,6 @@
-<h1 align="center"> Topic</h1>
+<h1 align="center"> Sentiment anaysis For Hindi text</h1>
 
 Mentor: Kusum Lata
-Problem: Sentiment anaysis For Hindi text
 
 ## Description
 

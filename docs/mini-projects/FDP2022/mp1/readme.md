@@ -9,4 +9,4 @@ Abuse is widely used in social media comments and it would be useful to detect i
 The problem is to identify social media comments that are abusive using a machine learning classifier.
 
 **Data:** Use this dataset to train and evaluate the classifier: https://www.kaggle.com/competitions/iiitd-abuse-detection-challenge/data.
-Look at the data analysis [notebook](notebooks/analyze_data.ipynb) for a peek :eyes: into the dataset.
+Look at the data analysis [notebook](analyze_data.ipynb) for a peek :eyes: into the dataset.

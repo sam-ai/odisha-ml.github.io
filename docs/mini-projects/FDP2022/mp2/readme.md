@@ -2,6 +2,8 @@
 
 Mentor: Kusum Lata
 
+Presentation: [Sentiment Analysis](Sentiment%20analysis_kusum.pptx)
+
 ## Description
 
 In this new era full of technology, people prefer expressing their opinions and sentiments on social media. The emergence of readily available and improved communications tools has contributed to the extensive use of e-news, blogs, review sites and social networking sites like Twitter, Facebook, and YouTube etc. This way tons of GBs of data is being generated everyday over the internet. Handling such large amount of data becomes an interesting and yet a challenging task for the research communities. Online user reviews gives consumers the power to tell their side of the purchase story. User's today rely on other people's experiences and feedbacks about a product before they themselves experience it.

@@ -22,15 +22,15 @@ First step, Aspect term extraction refers to identifying and retrieving the enti
 The second step i.e. the sentiment classification deals with classifying various aspects into their polarity categories (positive, negative and neutral).
 
 **Example For English**
-Review: The food is good but the location is bad.
-Aspect: Term Extraction “food”, “location”
-Sentiment classification: food-pos, location-neg 
+- Review: The food is good but the location is bad.
+- Aspect: Term Extraction “food”, “location”
+- Sentiment classification: food-pos, location-neg 
 
 **Example For Hindi** 
 
-Review: बैटरी लाइफ बहुत बढिया है
-Aspect Term Extraction: बैटरी लाइफ
-Sentiment classification: बैटरी लाइफ-pos
+- Review: बैटरी लाइफ बहुत बढिया है
+- Aspect Term Extraction: बैटरी लाइफ
+- Sentiment classification: बैटरी लाइफ-pos
 
 **Steps**
 1. Find dataset for sentiment analysis.
